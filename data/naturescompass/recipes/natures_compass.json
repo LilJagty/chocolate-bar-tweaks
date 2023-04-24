@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "APA",
+    "ECE",
+    "APA"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:compass"
+    },
+    "A": {
+      "tag": "alexsmobs:animal_dictionary_ingredient"
+    },
+    "E": {
+      "item": "minecraft:ender_eye"
+    },
+    "P": {
+      "tag": "forge:crops"
+    }
+  },
+  "result": {
+    "item": "naturescompass:naturescompass",
+    "count": 1
+  }
+}
