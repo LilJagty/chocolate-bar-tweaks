@@ -1,0 +1,15 @@
+{
+  "type": "botania:mana_infusion",
+  "catalyst": {
+    "type": "block",
+    "block": "botania:alchemy_catalyst"
+  },
+  "group": "botania:berry_cycle",
+  "input": {
+    "item": "neapolitan:vanilla_pods"
+  },
+  "mana": 6000,
+  "output": {
+    "item": "minecraft:cocoa_beans"
+  }
+}

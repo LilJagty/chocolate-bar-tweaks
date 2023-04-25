@@ -1,0 +1,15 @@
+{
+  "type": "botania:mana_infusion",
+  "catalyst": {
+    "type": "block",
+    "block": "botania:alchemy_catalyst"
+  },
+  "group": "botania:berry_cycle",
+  "input": {
+    "item": "neapolitan:adzuki_beans"
+  },
+  "mana": 6000,
+  "output": {
+    "item": "neapolitan:mint_leaves"
+  }
+}
