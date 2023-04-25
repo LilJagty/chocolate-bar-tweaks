@@ -6,7 +6,7 @@
   },
   "group": "botania:crop_cycle",
   "input": {
-    "item": "farmersdelight:lettuce_seeds"
+    "item": "farmersdelight:cabbage_seeds"
   },
   "mana": 6000,
   "output": {
