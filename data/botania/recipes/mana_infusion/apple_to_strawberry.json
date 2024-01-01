@@ -6,7 +6,7 @@
   },
   "group": "botania:berry_cycle",
   "input": {
-    "tag": "forge:fruits/apple"
+    "item": "minecraft:apple"
   },
   "mana": 6000,
   "output": {
